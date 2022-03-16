@@ -1,3 +1,3 @@
 ADRIANA="KRISLEY ADRIANA MORALES ALVAREZ"
 
-PRINT("Hola programacion 1, soy",ADRIANA)
+print("hola programacion 1, soy",adriana)
